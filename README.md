@@ -40,11 +40,18 @@ This project offers a 3D printable enclosure for a combination of the BigTreeTec
 * **[BigTreeTech_TFT35-E3_v3.0_Light_Pipe.stl](BigTreeTech_TFT35-E3_v3.0_Light_Pipe.stl)** Light pipe for use with the model above.  Print in clear filament to allow light from the LCD panel's color LEDs to be visible.
 * **[BigTreeTech_TFT35-E3_v3.0_Knob.stl](BigTreeTech_TFT35-E3_v3.0_Knob.stl)** Knob for the LCD.  Prints upside-down so supports aren't needed, add a filament change for the top 2mm and switch to a clear filament to create a ring of light around the base of the knob!
 
-## Printed enclosure
+---
 
+## Assembled
 ![Assembled enclosure](https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Assembled.jpg?raw=true)
 
+## Horizontal and vertical orientations
+![Assembled enclosure](https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Vertical_and_Horizontal_orientations.png?raw=true)
+
+## Light pipe detail
 ![Light Pipe Detail](https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Light_pipe_disassembled.png?raw=true)
+
+---
 
 ## License and support
 
