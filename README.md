@@ -1,6 +1,6 @@
 # 3D printable enclosure for the BigTreeTech SKR-Pro v1.2 controller and TFT35 touchscreen LCD
 
-[<img src="https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/BigTreeTech-SKR-PRO-TFT35-Enclosure-transparent.png?raw=true" width="1024">](Model)
+![Model](https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/BigTreeTech-SKR-PRO-TFT35-Enclosure-transparent.png?raw=true)
 
 This project offers a 3D printable enclosure for a combination of the BigTreeTech SKR-Pro v1.2 controller along with a TFT35 touchscreen LCD.  Highlights:
 
@@ -42,6 +42,12 @@ This project offers a 3D printable enclosure for a combination of the BigTreeTec
 
 ## Printed enclosure
 
-[<img src="https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Assembled.jpg?raw=true" width="1024">](Assembled)
+![Assembled enclosure](https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Assembled.jpg?raw=true)
 
-[<img src="https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Light_pipe_disassembled.png?raw=true" width="1024">](Light_pipe_detail)
+![Light Pipe Detail](https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Light_pipe_disassembled.png?raw=true)
+
+## License and support
+
+This project is MIT licensed, do whatever the heck you want!  If you love it, maybe buy me a coffee while you're at it :D
+
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/gW5rPpsKR)
