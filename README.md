@@ -42,6 +42,6 @@ This project offers a 3D printable enclosure for a combination of the BigTreeTec
 
 ## Printed enclosure
 
-[<img src="https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Assembled.jpg?raw=true" width="1024">](Printed and assembled)
+[<img src="https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Assembled.jpg?raw=true" width="1024">](Assembled)
 
-[<img src="https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Light_pipe_disassembled.png?raw=true" width="1024">](Light pipe detail)
+[<img src="https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Light_pipe_disassembled.png?raw=true" width="1024">](Light_pipe_detail)
