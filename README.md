@@ -45,7 +45,7 @@ This project offers a 3D printable enclosure for a combination of the BigTreeTec
 ## Assembled
 ![Assembled enclosure](https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Assembled.jpg?raw=true)
 
-## Horizontal and vertical orientations
+## [Horizontal and vertical orientations](https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Vertical_and_Horizontal_orientations.stl)
 ![Assembled enclosure](https://github.com/aderusha/BigTreeTech-SKR-PRO-TFT35-Enclosure/blob/main/images/Vertical_and_Horizontal_orientations.png?raw=true)
 
 ## Light pipe detail
