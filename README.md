@@ -31,6 +31,7 @@ This project offers a 3D printable enclosure for a combination of the BigTreeTec
 ### SKR Pro controller enclosure
 * **[BigTreeTech_SKR-PRO-v1.2_Bottom.stl](BigTreeTech_SKR-PRO-v1.2_Bottom.stl)** Bottom half of CNC controller enclosure, this part has two mounting studs for [#8 wood screws](https://amzn.to/3oEBPKy) to fasten it to an available horizontal or vertical surface.  Has 4x M3 nut traps to catch screws, should fit tight but you can secure the nuts with CA if needed.
 * **[BigTreeTech_SKR-PRO-v1.2_Top.stl](BigTreeTech_SKR-PRO-v1.2_Top.stl)** Top half of CNC controller enclosure, has fan mount for a [40mm fan](https://amzn.to/3DpozgQ)
+* * **[BigTreeTech_SKR-PRO-v1.2_Tall_Top.stl](BigTreeTech_SKR-PRO-v1.2_Tall_Top.stl)** Top half of CNC controller enclosure with 15mm additional clearance, has fan mount for a [40mm fan](https://amzn.to/3DpozgQ)
 * **[45deg_Pedestal.stl](45deg_Pedestal.stl)** Mount fastens to both CNC controller and LCD.  Rotate as needed for various mounting options. Model has an interior channel allowing you to route cables between the controller and LCD.  M3 nut traps are provided for fasteners, fit is intentionally tight.  You might need to push them into place with the short end of an Allen wrench and secure with CA glue as needed.
 
 ### TFT35 touchscreen LCD enclosure
